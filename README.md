@@ -7,7 +7,7 @@
 - [Bold](#bold)
 - [Italic](#italic)
 - [Blockquote](#bolckquote)
-- [Ordered List](#ordered0-list)
+- [Ordered List](#ordered-list)
 - [Unordered List](#unordered-list)
 - [Inline Code](#inline-code)
 - [Code Block](#code-block)
