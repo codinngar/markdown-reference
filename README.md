@@ -6,18 +6,19 @@
 - [Headings](#headings)
 - [Bold](#bold)
 - [Italic](#italic)
-- [Blockquote](#bolckquote)
+- [Blockquote](#blockquote)
 - [Ordered List](#ordered-list)
 - [Unordered List](#unordered-list)
 - [Inline Code](#inline-code)
 - [Code Block](#code-block)
 - [Horizontal Line](#horizontal-line)
-- [Line](#link)
+- [Link](#link)
 - [Image](#image)
 - [Table](#table)
 - [Footnote](#footnote)
 - [Line Through](#line-through)
 - [Task List](#task-list)
+
 
 <br><br>
 
@@ -71,7 +72,7 @@
 
 <br><br>
 
-## Ordered List {#ordered-list}
+## Ordered List
 ### Example
 ```md
 1. One
@@ -85,7 +86,7 @@
 
 <br><br>
 
-## Unordered List {#unordered-list}
+## Unordered List
 ### Example
 ```md
 - One
@@ -99,7 +100,7 @@
 
 <br><br>
 
-## Inline Code {#inline-code}
+## Inline Code
 ### Example
 ```md
 `Inline code`
@@ -109,7 +110,7 @@
 
 <br><br>
 
-## Code Block {#code-block}
+## Code Block
 ### Example
 ```md
 ```Code block```
@@ -121,7 +122,7 @@ Code block
 
 <br><br>
 
-## Horizontal Line {#horizontal-line}
+## Horizontal Line
 ### Example
 ```md
 ---
@@ -131,7 +132,7 @@ Code block
 
 <br><br>
 
-## Link {#link}
+## Link
 ### Example
 ```md
 [Google](https://www.google.com)
@@ -141,7 +142,7 @@ Code block
 
 <br><br>
 
-## Image {#image}
+## Image
 ### Example
 ```md
 ![Palestine](https://c0.wallpaperflare.com/path/14/607/599/jerusalem-dome-of-the-rock-kudus-kubbet-us-sahra-63a4bd9dfca871cfe195e726340c6852.jpg)
@@ -151,7 +152,7 @@ Code block
 
 <br><br>
 
-## Table {#table}
+## Table
 ### Example
 ```md
 | Name | Gender | Age |
@@ -169,7 +170,7 @@ Code block
 
 <br><br>
 
-## Footnote {#footnote}
+## Footnote
 ### Example
 ```md
 Footnote is used in books. [^1]
@@ -183,7 +184,7 @@ Footnote is used in books. [^1]
 
 <br><br>
 
-## Heading ID {heading-id}
+## Heading ID
 ### Example
 ```md
 This is a heading with and id {#id}
@@ -193,7 +194,7 @@ This is a heading with and id {#id}
 
 <br><br>
 
-## Line Through {#line-through}
+## Line Through
 ### Example
 ```md
 ~~Line through text~~
@@ -203,7 +204,7 @@ This is a heading with and id {#id}
 
 <br><br>
 
-## Task List {#task-list}
+## Task List
 ### Example
 ```md
 - [x] Read a book
