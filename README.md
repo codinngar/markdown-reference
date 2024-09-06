@@ -184,16 +184,6 @@ Footnote is used in books. [^1]
 
 <br><br>
 
-## Heading ID
-### Example
-```md
-This is a heading with and id {#id}
-```
-### Preview
-#### This is a heading with and id {#id}
-
-<br><br>
-
 ## Line Through
 ### Example
 ```md
