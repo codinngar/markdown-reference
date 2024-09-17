@@ -1,7 +1,5 @@
 # markdown-reference
 
-<br><br>
-
 ## Table of contents
 - [Headings](#headings)
 - [Bold](#bold)
@@ -18,8 +16,6 @@
 - [Footnote](#footnote)
 - [Line Through](#line-through)
 - [Task List](#task-list)
-
-<br><br>
 
 ## Headings
 ### Example
@@ -39,8 +35,6 @@
 ##### H5
 ###### H6
 
-<br><br>
-
 ## Bold
 ### Example
 ```md
@@ -48,8 +42,6 @@
 ```
 ### Preview
 **Bold text**
-
-<br><br>
 
 ## Italic
 ### Example
@@ -59,8 +51,6 @@
 ### Preview
 *Italic font*
 
-<br><br>
-
 ## Blockquote
 ### Example
 ```md
@@ -68,8 +58,6 @@
 ```
 ### Preview
 > Blockquote
-
-<br><br>
 
 ## Ordered List {#ordered-list}
 ### Example
@@ -83,8 +71,6 @@
 2. Two
 3. Three
 
-<br><br>
-
 ## Unordered List {#unordered-list}
 ### Example
 ```md
@@ -97,8 +83,6 @@
 - Two
 - Three
 
-<br><br>
-
 ## Inline Code {#inline-code}
 ### Example
 ```md
@@ -106,8 +90,6 @@
 ```
 ### Preview
 `Inline code`
-
-<br><br>
 
 ## Code Block {#code-block}
 ### Example
@@ -119,8 +101,6 @@
 Code block
 ```
 
-<br><br>
-
 ## Horizontal Line {#horizontal-line}
 ### Example
 ```md
@@ -128,8 +108,6 @@ Code block
 ```
 ### Preview
 ---
-
-<br><br>
 
 ## Link {#link}
 ### Example
@@ -139,8 +117,6 @@ Code block
 ### Preview
 [Google](https://www.google.com)
 
-<br><br>
-
 ## Image {#image}
 ### Example
 ```md
@@ -148,8 +124,6 @@ Code block
 ```
 ### Preview
 ![Palestine](https://c0.wallpaperflare.com/path/14/607/599/jerusalem-dome-of-the-rock-kudus-kubbet-us-sahra-63a4bd9dfca871cfe195e726340c6852.jpg)
-
-<br><br>
 
 ## Table {#table}
 ### Example
@@ -167,8 +141,6 @@ Code block
 | Ahmed | Male | 45 |
 | Sara | Female | 39 |
 
-<br><br>
-
 ## Footnote {#footnote}
 ### Example
 ```md
@@ -181,8 +153,6 @@ Footnote is used in books. [^1]
 
 [^1]: Reading books is useful.
 
-<br><br>
-
 ## Heading ID {heading-id}
 ### Example
 ```md
@@ -191,8 +161,6 @@ This is a heading with and id {#id}
 ### Preview
 #### This is a heading with and id {#id}
 
-<br><br>
-
 ## Line Through {#line-through}
 ### Example
 ```md
@@ -200,8 +168,6 @@ This is a heading with and id {#id}
 ```
 ### Preview
 ~~Line through text~~
-
-<br><br>
 
 ## Task List {#task-list}
 ### Example
