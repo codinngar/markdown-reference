@@ -60,7 +60,6 @@
 > Blockquote
 
 ## Ordered List
->>>>>>> 2320a2bf9cae9df51805b0f060fd86740b6f0802
 ### Example
 ```md
 1. One
@@ -73,7 +72,6 @@
 3. Three
 
 ## Unordered List
->>>>>>> 2320a2bf9cae9df51805b0f060fd86740b6f0802
 ### Example
 ```md
 - One
@@ -86,7 +84,6 @@
 - Three
 
 ## Inline Code
->>>>>>> 2320a2bf9cae9df51805b0f060fd86740b6f0802
 ### Example
 ```md
 `Inline code`
@@ -105,7 +102,6 @@ Code block
 ```
 
 ## Horizontal Line
->>>>>>> 2320a2bf9cae9df51805b0f060fd86740b6f0802
 ### Example
 ```md
 ---
@@ -114,7 +110,6 @@ Code block
 ---
 
 ## Link
->>>>>>> 2320a2bf9cae9df51805b0f060fd86740b6f0802
 ### Example
 ```md
 [Google](https://www.google.com)
@@ -147,7 +142,6 @@ Code block
 | Sara | Female | 39 |
 
 ## Footnote
->>>>>>> 2320a2bf9cae9df51805b0f060fd86740b6f0802
 ### Example
 ```md
 Footnote is used in books. [^1]
